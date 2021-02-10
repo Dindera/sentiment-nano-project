@@ -1,5 +1,6 @@
 pandas
 numpy
+pandas-compat
 nltk
 beautifulsoup4
 html5lib
